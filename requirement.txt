@@ -1,0 +1,13 @@
+```txt
+tensorflow
+numpy
+opencv-python
+matplotlib
+scikit-learn
+rasterio
+tifffile
+geopandas
+pandas
+shapely
+tqdm
+Pillow
