@@ -14,3 +14,5 @@ It combines **deep learning**, **geospatial data processing**, and **semantic se
 -  Trained model weights included: `best_model.h5`
 
 
+## Dataset:
+https://www.kaggle.com/datasets/tekbahadurkshetri/landslide4sense
